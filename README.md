@@ -21,4 +21,6 @@ This folder contains code used to perform GWAS.
 #### Python
 This folder contains code and notebooks used to process genotype data, build the transformer model and train the model on the inputs.
 
+![Model](https://github.com/B213753/MSDSHSC-dissertation/blob/main/python/transformer_model/TNN_V1.JPG)
+
 
